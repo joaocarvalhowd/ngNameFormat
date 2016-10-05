@@ -1,0 +1,24 @@
+{
+  "name": "ng-name-format",
+  "description": "Directive for input name",
+  "main": [
+    "dist/ngNameFormat.min.js"
+  ],
+  "keywords": [
+    "name",
+    "input",
+    "form"
+  ],
+  "authors": [
+    "João Carvalho <oi@joaocarvalhowd.com.br>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": false
+}
