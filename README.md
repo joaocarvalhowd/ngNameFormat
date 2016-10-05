@@ -1,5 +1,13 @@
 # ngNameFormat
 
+## Installation
+
+With Bower:
+
+```
+bower install --save ng-name-format
+```
+
 ## How to use
 
  - Example:
