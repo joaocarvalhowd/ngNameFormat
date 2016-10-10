@@ -8,6 +8,12 @@ With Bower:
 bower install --save ng-name-format
 ```
 
+With npm:
+
+```
+npm install --save ng-name-format
+```
+
 ## How to use
 
  - Example:
