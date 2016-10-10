@@ -25,3 +25,7 @@ npm install --save ng-name-format
 ### Contributions
 
 Create a [issue](https://github.com/joaocarvalhowd/ngNameFormat/issues/new) or send a **pull request**!
+
+### License
+
+MIT
