@@ -1,6 +1,6 @@
 {
   "name": "ng-name-format",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Directive",
   "main": "index.js",
   "scripts": {

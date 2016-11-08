@@ -1,9 +1,8 @@
 {
   "name": "ng-name-format",
   "description": "Directive for input name",
-  "main": [
-    "dist/ngNameFormat.min.js"
-  ],
+  "version": "1.0.3",
+  "main": "dist/ngNameFormat.min.js",
   "keywords": [
     "name",
     "input",
