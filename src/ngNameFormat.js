@@ -36,7 +36,7 @@
 				.map(function(word) {
 				var ignore = ['da', 'de', 'das', 'do', 'dos'];
 
-				if(ignore.indexOf(word) === -1) {
+				if(word.length > 1 && ignore.indexOf(word) === -1) {
 
 					return word[0].toUpperCase() + word.substr(1);
 
