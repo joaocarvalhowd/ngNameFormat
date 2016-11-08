@@ -16,13 +16,13 @@ npm install --save ng-name-format
 
 ## Configuration
 
-1. Import the ```ngNameFormat.min.js``` script in your page. For example:
+- Import the ```ngNameFormat.min.js``` script in your page. For example:
 
 ```html
 <script src="ngNameFormat.min.js"></script>
 ```
 
-2. Include the module name ```ngNameFormat``` in your angular app. For example:
+- Include the module name ```ngNameFormat``` in your angular app. For example:
 
 ```
 angular.module("your-app", ['ngNameFormat']);
